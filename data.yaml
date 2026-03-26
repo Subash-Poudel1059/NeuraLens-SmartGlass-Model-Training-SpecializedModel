@@ -1,0 +1,7 @@
+path: .  # Points to C:\Users\Lucas Dev\Downloads\neuralens.v2-v2.yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 20
+names: ['bag', 'bin', 'bottle', 'cctv_camera', 'chair', 'copy', 'curtain', 'desk', 'door', 'glass', 'jug', 'light', 'pen', 'person', 'plants', 'poster', 'smartboard', 'stairs', 'switch', 'watch']
